@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: a7cc93baff321604588f2f1a0cbc0ceb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Trueno
+  fontNames:
+  - Trueno
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 84b47aa2cd39b0a4cb247a6236cab85b, type: 3}
+  - {fileID: 12800000, guid: 533ea747227ac3c4eae5740019bf349b, type: 3}
+  - {fileID: 12800000, guid: 3d973658ba02c134cb95d79177e4ecac, type: 3}
+  - {fileID: 12800000, guid: 43f412b8dc8984044a9d7b00de421b01, type: 3}
+  - {fileID: 12800000, guid: 98c8135c5bad174499e78aa151cf5f30, type: 3}
+  - {fileID: 12800000, guid: 9d186a8c280a16641b3c053c1ad9d5e8, type: 3}
+  - {fileID: 12800000, guid: 57b5800f7f2d3e54f98a277e81f7f8bd, type: 3}
+  - {fileID: 12800000, guid: 0b9e9b5f8ffaffd4eaee44e3508a0573, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c37f7746917f4760aa00e7ff7fd81dc, type: 3}
+  m_Name: ARImagesSet_UnityLogo
+  m_EditorClassIdentifier: 
+  resourceGroupName: AR Rezources
+  referenceImages:
+  - {fileID: 11400000, guid: fa9c5deee83494083beea0977b5302c2, type: 2}
+  - {fileID: 11400000, guid: 9d6cedfb4c48647ca9007fb8cb8aa6b0, type: 2}
+  - {fileID: 11400000, guid: f4d01377123571647859e57253f91a30, type: 2}
+  - {fileID: 11400000, guid: a76cc4e36e40f9c408688bcc1b5ca490, type: 2}
+  - {fileID: 11400000, guid: 93d24e2b951fb574bba33d6f89174abf, type: 2}
+  - {fileID: 11400000, guid: 3a91a152a8fc3c54fb4a7a89d508e4c7, type: 2}
+  - {fileID: 11400000, guid: 21c882e5023684646b2537ba6ffb7f4c, type: 2}
